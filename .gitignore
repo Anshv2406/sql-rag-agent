@@ -1,0 +1,14 @@
+# Environment variables (contains API key)
+.env
+
+# Test database
+test.db
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# VS Code
+.cph/
+chroma_db/

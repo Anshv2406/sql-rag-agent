@@ -1,0 +1,7 @@
+Q: How do I reset my password?
+A: Go to Account Settings > Security > Reset Password. A reset link is sent
+to your registered email.
+
+Q: Can I share my playlist with other users?
+A: Yes, playlists can be made public via the Playlist Settings menu, then
+shared via a direct link.

@@ -1,0 +1,11 @@
+langchain
+langchain-community
+langchain-google-genai
+langgraph
+psycopg2-binary
+sqlalchemy
+chromadb
+gradio
+python-dotenv
+pypdf
+tavily-python
