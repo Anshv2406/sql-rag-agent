@@ -70,6 +70,14 @@ Change `DATABASE_URL` in `.env` — no code changes required. The agent inspects
     ├── .env                  # config (not committed — see .gitignore)
     └── requirements.txt
 
+
+### Screenshots
+
+![SQL Agent Interface 1](screenshots/sql1.png)
+![SQL Agent Interface 2](screenshots/sql2.png)
+![SQL Agent Interface 3](screenshots/sql3.png)
+![SQL Agent Interface 4](screenshots/sql4.png)
+
 ## Known limitations
 
 - Conversation memory is in-memory only — resets when the script restarts
